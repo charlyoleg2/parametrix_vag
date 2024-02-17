@@ -4,6 +4,8 @@
   "description": "top-repo that points to the other parametrix repositories",
   "main": "index.js",
   "scripts": {
+	"vag-list": "vag --importYaml=parametrix_repos.yml list",
+	"vag-clone": "vag --importYaml=parametrix_repos.yml clone",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
