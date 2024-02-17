@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/charlyoleg2/parametrix_vag/issues"
   },
-  "homepage": "https://github.com/charlyoleg2/parametrix_vag#readme"
+  "homepage": "https://github.com/charlyoleg2/parametrix_vag#readme",
+  "devDependencies": {
+    "vag_tools": "^0.0.4"
+  }
 }
