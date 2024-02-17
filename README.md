@@ -24,6 +24,9 @@ Getting started
 git clone https://github.com/charlyoleg2/parametrix_vag
 cd parametrix_vag
 npm i
+npm run
 npm run vag-clone
+ls -la repos
+npx vag --help
 ```
 
