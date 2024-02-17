@@ -1,0 +1,16 @@
+# parametrix_repos.yml
+
+repositories:
+  parametrix:
+    type: git
+    url: git@github.com:charlyoleg2/parametrix.git
+    version: main
+  parame_paxApps:
+    url: https://github.com/charlyoleg2/parame_paxApps.git
+    version: main
+  parame51:
+    url: https://github.com/charlyoleg2/parame51.git
+    version: main
+  parame52:
+    url: https://github.com/charlyoleg2/parame52.git
+    version: main
