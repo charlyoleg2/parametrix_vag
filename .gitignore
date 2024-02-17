@@ -1,0 +1,5 @@
+# .gitignore of parametrix_vag
+node_modules
+build
+dist
+tmp
