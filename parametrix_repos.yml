@@ -14,3 +14,6 @@ repositories:
   repos/parame52:
     url: https://github.com/charlyoleg2/parame52.git
     version: main
+  repos/parame15L:
+    url: https://github.com/charlyoleg2/parame15L.git
+    version: main
