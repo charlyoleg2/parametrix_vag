@@ -16,6 +16,7 @@ Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the follo
 - parame53
 - parame78
 - parame15L
+- heliostat\_model\_50cm
 
 
 Getting started

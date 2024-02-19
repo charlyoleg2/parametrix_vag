@@ -17,3 +17,6 @@ repositories:
   repos/parame15L:
     url: https://github.com/charlyoleg2/parame15L.git
     version: main
+  repos/heliostat_model_50cm:
+    url: https://github.com/charlyoleg2/heliostat_model_50cm.git
+    version: main
