@@ -8,6 +8,7 @@
   	"scripts": {
 		"vag-list": "vag --importYaml=parametrix_repos.yml list",
   		"vag-clone": "vag --importYaml=parametrix_repos.yml clone",
+  		"vag-pull": "vag pull",
   		"test": "echo \"Error: no test specified\" && exit 1"
   	},
   	"repository": {
