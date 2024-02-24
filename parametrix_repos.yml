@@ -5,6 +5,9 @@ repositories:
     type: git
     url: git@github.com:charlyoleg2/parametrix.git
     version: main
+  repos/parametrix_vag:
+    url: https://github.com/charlyoleg2/parametrix_vag.git
+    version: main
   repos/parame_paxApps:
     url: https://github.com/charlyoleg2/parame_paxApps.git
     version: main

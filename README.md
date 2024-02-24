@@ -10,6 +10,7 @@ Presentation
 Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the following repositories:
 
 - parametrix
+- parametrix\_vag
 - parame\_paxApps
 - parame51
 - parame52
@@ -28,6 +29,7 @@ cd parametrix_vag
 npm i
 npm run
 npm run vag-clone
+npm run vag-pull
 ls -la repos
 npx vag --help
 ```
