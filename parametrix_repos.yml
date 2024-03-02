@@ -6,23 +6,23 @@ repositories:
     url: git@github.com:charlyoleg2/parametrix.git
     version: main
   repos/parametrix_vag:
-    url: https://github.com/charlyoleg2/parametrix_vag.git
+    url: git@github.com:charlyoleg2/parametrix_vag.git
     version: main
   repos/parame_paxApps:
-    url: https://github.com/charlyoleg2/parame_paxApps.git
+    url: git@github.com:charlyoleg2/parame_paxApps.git
     version: main
   repos/parame51:
-    url: https://github.com/charlyoleg2/parame51.git
+    url: git@github.com:charlyoleg2/parame51.git
     version: main
   repos/parame52:
-    url: https://github.com/charlyoleg2/parame52.git
+    url: git@github.com:charlyoleg2/parame52.git
     version: main
   repos/parame53:
-    url: https://github.com/charlyoleg2/parame53.git
+    url: git@github.com:charlyoleg2/parame53.git
     version: main
   repos/parame15L:
-    url: https://github.com/charlyoleg2/parame15L.git
+    url: git@github.com:charlyoleg2/parame15L.git
     version: main
   repos/heliostat_model_50cm:
-    url: https://github.com/charlyoleg2/heliostat_model_50cm.git
+    url: git@github.com:charlyoleg2/heliostat_model_50cm.git
     version: main
