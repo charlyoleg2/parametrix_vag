@@ -7,9 +7,16 @@
   	"main": "index.js",
   	"scripts": {
 		"vag-list": "vag --importYaml=parametrix_repos.yml list",
-  		"vag-clone": "vag --importYaml=parametrix_repos.yml clone",
-  		"vag-pull": "vag pull",
-  		"test": "echo \"Error: no test specified\" && exit 1"
+		"vag-clone": "vag --importYaml=parametrix_repos.yml clone",
+		"vag-status": "vag status",
+		"vag-diff": "vag diff",
+		"vag-branch": "vag branch",
+		"vag-remote": "vag remote",
+		"vag-pull": "vag pull",
+		"vag-push": "vag push",
+		"vag-verify": "vag verify --importYaml=parametrix_repos.yml",
+		"vag-versions": "vag versions",
+		"test": "echo \"Error: no test specified\" && exit 1"
   	},
   	"repository": {
 		"type": "git",
