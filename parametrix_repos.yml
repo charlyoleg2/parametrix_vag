@@ -32,3 +32,6 @@ repositories:
   repos/heliostat_model_50cm:
     url: git@github.com:charlyoleg2/heliostat_model_50cm.git
     version: main
+  repos/cabane:
+    url: git@github.com:charlyoleg2/cabane.git
+    version: main
