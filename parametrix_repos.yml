@@ -35,3 +35,9 @@ repositories:
   repos/cabane:
     url: git@github.com:charlyoleg2/cabane.git
     version: main
+  repos/ustensile:
+    url: git@github.com:charlyoleg2/ustensile.git
+    version: main
+  repos/gears_and_springs:
+    url: git@github.com:charlyoleg2/gears_and_springs.git
+    version: main
