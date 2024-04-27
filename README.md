@@ -18,6 +18,9 @@ Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the follo
 - parame78
 - parame15L
 - heliostat\_model\_50cm
+- cabane
+- ustensile
+- gears\_and\_springs
 
 
 Getting started

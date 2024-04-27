@@ -3,6 +3,18 @@
 	"version": "0.0.1",
 	"description": "top-repo that points to the other parametrix repositories",
 	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/charlyoleg2/parametrix_vag.git"
+	},
+	"homepage": "https://github.com/charlyoleg2/parametrix_vag#readme",
+	"author": "charlyoleg2",
+	"license": "ISC",
+	"keywords": [
+		"parametrix",
+		"geometrix",
+		"vag"
+	],
 	"type": "module",
 	"main": "index.js",
 	"scripts": {
@@ -18,23 +30,6 @@
 		"vag-versions": "vag versions",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/charlyoleg2/parametrix_vag.git"
-	},
-	"keywords": [
-		"parametrix",
-		"geometrix",
-		"2D",
-		"3D",
-		"vag"
-	],
-	"author": "charlyoleg2",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/charlyoleg2/parametrix_vag/issues"
-	},
-	"homepage": "https://github.com/charlyoleg2/parametrix_vag#readme",
 	"devDependencies": {
 		"vag_tools": "^0.0.4"
 	}
