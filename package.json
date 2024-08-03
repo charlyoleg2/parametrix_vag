@@ -31,6 +31,6 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"devDependencies": {
-		"vag_tools": "^0.0.4"
+		"vag_tools": "^0.0.7"
 	}
 }
