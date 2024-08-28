@@ -29,6 +29,9 @@ repositories:
   repos/parame15L:
     url: git@github.com:charlyoleg2/parame15L.git
     version: main
+  repos/create-parametrix:
+    url: git@github.com:charlyoleg2/create-parametrix.git
+    version: main
   repos/heliostat_model_50cm:
     url: git@github.com:charlyoleg2/heliostat_model_50cm.git
     version: main
