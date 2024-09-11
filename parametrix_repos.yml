@@ -5,11 +5,11 @@ repositories:
     type: git
     url: git@github.com:charlyoleg2/parametrix.git
     version: main
+  repos/create-parametrix:
+    url: git@github.com:charlyoleg2/create-parametrix.git
+    version: main
   repos/parametrix_vag:
     url: git@github.com:charlyoleg2/parametrix_vag.git
-    version: main
-  repos/parame_paxApps:
-    url: git@github.com:charlyoleg2/parame_paxApps.git
     version: main
   repos/parame51:
     url: git@github.com:charlyoleg2/parame51.git
@@ -28,9 +28,6 @@ repositories:
     version: main
   repos/parame15L:
     url: git@github.com:charlyoleg2/parame15L.git
-    version: main
-  repos/create-parametrix:
-    url: git@github.com:charlyoleg2/create-parametrix.git
     version: main
   repos/heliostat_model_50cm:
     url: git@github.com:charlyoleg2/heliostat_model_50cm.git
