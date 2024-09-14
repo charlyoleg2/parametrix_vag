@@ -10,12 +10,13 @@ Presentation
 Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the following repositories:
 
 - parametrix
+- create-parametrix
 - parametrix\_vag
-- parame\_paxApps
 - parame51
 - parame52
 - parame53
 - parame78
+- parame82
 - parame15L
 - heliostat\_model\_50cm
 - cabane
