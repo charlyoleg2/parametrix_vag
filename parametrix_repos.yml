@@ -41,3 +41,6 @@ repositories:
   repos/gears_and_springs:
     url: git@github.com:charlyoleg2/gears_and_springs.git
     version: main
+  repos/catalos:
+    url: git@github.com:charlyoleg2/catalos.git
+    version: main
