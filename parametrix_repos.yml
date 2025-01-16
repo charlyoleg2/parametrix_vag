@@ -44,3 +44,6 @@ repositories:
   repos/catalos:
     url: git@github.com:charlyoleg2/catalos.git
     version: main
+  repos/maker_ustensile:
+    url: git@github.com:charlyoleg2/maker_ustensile.git
+    version: main
