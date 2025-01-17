@@ -47,3 +47,9 @@ repositories:
   repos/maker_ustensile:
     url: git@github.com:charlyoleg2/maker_ustensile.git
     version: main
+  repos/maker_parame51:
+    url: git@github.com:charlyoleg2/maker_parame51.git
+    version: main
+  repos/maker_parame78:
+    url: git@github.com:charlyoleg2/maker_parame78.git
+    version: main
