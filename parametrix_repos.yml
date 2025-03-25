@@ -20,6 +20,9 @@ repositories:
   repos/parame53:
     url: git@github.com:charlyoleg2/parame53.git
     version: main
+  repos/parame77:
+    url: git@github.com:charlyoleg2/parame77.git
+    version: main
   repos/parame78:
     url: git@github.com:charlyoleg2/parame78.git
     version: main
