@@ -62,3 +62,6 @@ repositories:
   repos/maker_parame77:
     url: git@github.com:charlyoleg2/maker_parame77.git
     version: main
+  repos/maker_parame76:
+    url: git@github.com:charlyoleg2/maker_parame76.git
+    version: main
